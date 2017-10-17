@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>About Me</title>
+    <link rel="stylesheet" href="./style.css" media="screen"/>
+  </head>
+
+  <body>
+    <header>
+      <ul class="header-menu">
+        <li class="about">Third page |</li>
+        <li class="portfolio"><a href="C:\Users\Laura\Documents\General Assembly Developer Course\Fewda\Monday\Assignment\my_assignment\portfolio.html">Portfolio</a></li>
+      </ul>
+      <h1>Laura Randrianarison</h1>
+    </div>
+    </header>
+
+    <main>
+        <div "main-paragraph">
+          <img class="profile-picture" src="C:\Users\Laura\Documents\General Assembly Developer Course\Fewda\Monday\Assignment\starter_code\images\IMG_6432.JPG" alt="profile picture" />
+          <h2 class="experience-about">Experience as a developer</h2>
+          <p class="bio">
+            I am studying coding at General Assembly.<br />
+            This is my portfolio.<a href="C:\Users\Laura\Documents\General Assembly Developer Course\Fewda\Monday\Assignment\my_assignment\portfolio.html">Click here </a>to see examples of my work.</p>
+        </div>
+
+        <div class="header-menu">
+        <ul>
+          <li><a href="https://twitter.com/randy_lacourt">Twitter</a></li>
+          <li><a href="https://www.instagram.com/die.twice/">Instagram</a></li>
+          <li><a href="https://www.linkedin.com/in/randrianarisonlaura?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvPCclvJoRNaF7KcpAEzsvw%3D%3D">LinkedIn</a></li>
+        </ul>
+      </div>
+    </main>
+
+  </body>
+</html>
